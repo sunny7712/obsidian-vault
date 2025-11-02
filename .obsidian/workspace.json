@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f5a42ba53b98d630",
+        "id": "805e1ac2a30e7095",
         "type": "tabs",
         "children": [
           {
-            "id": "393b40b469ffade0",
+            "id": "603910c54bca19f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Alex Xu's System Design Part - I/Chapter 3 -  A FRAMEWORK FOR SYSTEM DESIGN INTERVIEWS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chapter 3 -  A FRAMEWORK FOR SYSTEM DESIGN INTERVIEWS"
             }
           }
         ]
@@ -159,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,9 +179,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "393b40b469ffade0",
+  "active": "603910c54bca19f5",
   "lastOpenFiles": [
     "Notes/Alex Xu's System Design Part - I/Chapter 2 - Back of the envelope estimation.md",
+    "Notes/Alex Xu's System Design Part - I/Chapter 3 -  A FRAMEWORK FOR SYSTEM DESIGN INTERVIEWS.md",
     "Untitled.base",
     "Excalidraw/Drawing 2025-11-02 19.06.22.excalidraw.md",
     "Excalidraw",
