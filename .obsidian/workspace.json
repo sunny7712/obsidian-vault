@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "67f77bef15976c70",
+        "id": "f5a42ba53b98d630",
         "type": "tabs",
         "children": [
           {
-            "id": "e395139e5162fd3c",
+            "id": "393b40b469ffade0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,11 +174,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "427807018762b6fe",
+  "active": "393b40b469ffade0",
   "lastOpenFiles": [
+    "Notes/Alex Xu's System Design Part - I/Chapter 2 - Back of the envelope estimation.md",
+    "Untitled.base",
+    "Excalidraw/Drawing 2025-11-02 19.06.22.excalidraw.md",
+    "Excalidraw",
     "Notes/Alex Xu's System Design Part - I",
     "Notes",
-    "Welcome.md",
-    "Untitled.base"
+    "Welcome.md"
   ]
 }
