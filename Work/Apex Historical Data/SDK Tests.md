@@ -1,0 +1,16 @@
+```
+Invalid candle data: ['2025-10-08T09:05:00', None, 1384.8, 1384.8, 1384.8, 29546, None]
+data types: [<class 'str'>, <class 'NoneType'>, <class 'float'>, <class 'float'>, <class 'float'>, <class 'int'>, <class 'NoneType'>]
+Invalid candle data: ['2025-10-09T09:00:00', None, None, None, None, 80192, None]
+data types: [<class 'str'>, <class 'NoneType'>, <class 'NoneType'>, <class 'NoneType'>, <class 'NoneType'>, <class 'int'>, <class 'NoneType'>]
+Invalid candle data: ['2025-10-09T09:05:00', None, 1374.0, 1374.0, 1374.0, 21203, None]
+data types: [<class 'str'>, <class 'NoneType'>, <class 'float'>, <class 'float'>, <class 'float'>, <class 'int'>, <class 'NoneType'>]
+Invalid candle data: ['2025-10-10T09:00:00', None, None, None, None, 46131, None]
+data types: [<class 'str'>, <class 'NoneType'>, <class 'NoneType'>, <class 'NoneType'>, <class 'NoneType'>, <class 'int'>, <class 'NoneType'>]
+Invalid candle data: ['2025-10-10T09:05:00', None, 1377.8, 1377.8, 1377.8, 2040, None]
+data types: [<class 'str'>, <class 'NoneType'>, <class 'float'>, <class 'float'>, <class 'float'>, <class 'int'>, <class 'NoneType'>]
+Invalid candle data: ['2025-10-13T09:00:00', None, None, None, None, 19707, None]
+data types: [<class 'str'>, <class 'NoneType'>, <class 'NoneType'>, <class 'NoneType'>, <class 'NoneType'>, <class 'int'>, <class 'NoneType'>]
+Invalid candle data: ['2025-10-13T09:05:00', None, 1376.9, 1376.9, 1376.9, 7455, None]
+data types: [<class 'str'>, <class 'NoneType'>, <class 'float'>, <class 'float'>, <class 'float'>, <class 'int'>, <class 'NoneType'>]
+```

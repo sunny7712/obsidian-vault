@@ -1,0 +1,7 @@
+- kube config file path - `~/.kube/config`
+- `kubectl config current-context`
+- `kubectl get pods -o wide --all-namespaces`
+- list services in the namespace - `kubectl get svc -n default`
+- describe service - `kubectl describe svc <svc name> -n default`
+- describe pod - `kubectl describe pod -n default <pod name>`
+- 

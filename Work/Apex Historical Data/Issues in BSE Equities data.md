@@ -1,0 +1,2 @@
+- start timestamp greater than end timestamp in a few rows.
+- identifer is exchange_token and not symbol

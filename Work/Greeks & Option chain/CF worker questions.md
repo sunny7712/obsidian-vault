@@ -1,0 +1,4 @@
+- Where do you guys deploy cf workers? How does the ci workflow look like?
+- How to monitor deployments? Is there anything equivalent to argo to check which version is deployed etc. Release deployment vs prod deployment?
+- Cf Dashboard?
+- Any access to take for deployment?

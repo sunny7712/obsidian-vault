@@ -1,0 +1,10 @@
+- Optimize processes and increase throughput using one resource -> **Vertical Scaling**
+- Preparing beforehand during non peak hours -> **Preprocessing & Cron jobs**
+- Keep backups and **avoid single points of failures** -> **Backups**
+- Add more resources -> **Horizontal Scaling**
+- Routing your requests to different services designed to handle that specific type of requests and keeping the responsibilities separate -> **Microservices**
+- Keeping multiple instances of your system on servers all around the world to serve traffic across the world -> **Distributed systems (Partitioning)**
+- A central authority which routes requests to different server instances based on some business logic -> **Load balancer**
+- Separation of concerns -> **Decoupling**
+- Metrics, traces and logs -> **Observability**
+- **Extensible**

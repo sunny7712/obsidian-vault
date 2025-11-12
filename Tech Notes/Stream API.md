@@ -1,0 +1,3 @@
+- Once the stream has been operated upon or consumed, you cannot use the same stream again.
+- There is also an option of parallel stream.
+- 

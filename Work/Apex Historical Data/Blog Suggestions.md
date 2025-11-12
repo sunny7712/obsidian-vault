@@ -1,0 +1,11 @@
+- Read Write layer segregation
+- Reduce wording.
+	- Remove bulk import
+	- Change "Daily ingestion job"
+	- Validate and compress into files
+	- Cloud storage Remove source of truth -> Cloud File storage
+	- Remove format
+	- Remove "daily trigger"
+	- The whole block as Daily K8s cron job
+	- Remove "Local Cache Fast Access"
+	- "Write through NFS"
