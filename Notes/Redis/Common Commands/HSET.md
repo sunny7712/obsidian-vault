@@ -101,3 +101,10 @@ Don’t use hashes when:
 - You need nested structures (use `RedisJSON`).
 - You want expiration per field (Redis hashes don’t support per-field TTL).
 - You’re storing large blobs (store blob directly with `SET`).
+
+---
+### Related commands
+- `HMGET`
+- `HGET`
+- `HINCRBY`
+https://redis.io/docs/latest/commands/hincrby/
