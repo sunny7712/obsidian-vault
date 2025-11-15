@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to refer/Intellij cracked version.md",
+                "file": "Notes/Redis/Common Commands/HSET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intellij cracked version"
-            }
-          },
-          {
-            "id": "04c9b399bcbf01a1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "HSET"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,8 +178,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "04c9b399bcbf01a1",
+  "active": "85b7f549a24a4fb7",
   "lastOpenFiles": [
+    "Things to refer/Intellij cracked version.md",
+    "Notes/Redis/Common Commands/HSET.md",
+    "Notes/Redis/Untitled.md",
+    "Notes/Redis/Common Commands",
+    "Notes/Redis",
+    "Tech Notes/Java Garbage Collection.md",
+    "Tech Notes/Indexing.md",
     "Work/Growth/Dhiman's experience files for reference/Dhiman's SDE-1, January 2023 to June 2023 Achievements.md",
     "Work/Growth/Dhiman's experience files for reference/Dhiman's Internship, January 2022 to June 2022 Achievements.md",
     "Work/Worklog/2025-09-02.md",
@@ -214,20 +208,13 @@
     "Work/Worklog/2025-07-24.md",
     "Work/Worklog/2025-07-23.md",
     "Work/Groww Cloud/Groww Cloud Design Feedback.md",
-    "Work/Static IPs/DB Schema Design.md",
-    "Work/Growth/Internship Achievements.md",
-    "Work/Growth/Feedback Questions.md",
     "Work/Growth/Dhiman's experience files for reference",
-    "Work/Greeks & Option chain/Things before go live.md",
-    "Work/Greeks & Option chain/HLD.md",
     "Work/Worklog",
     "Work/Static IPs",
     "Work/Groww Cloud",
     "Work/Growth",
     "Work/Greeks & Option chain",
     "Work/Apex SDK",
-    "Work/Apex Historical Data",
-    "Work/Apex Documentation",
-    "Work"
+    "Work/Apex Historical Data"
   ]
 }
