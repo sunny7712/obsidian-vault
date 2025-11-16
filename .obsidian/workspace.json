@@ -11,10 +11,14 @@
             "id": "3bdbfb5ff2202756",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Redis/Redis Atomic Operations.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Redis Atomic Operations"
             }
           }
         ]
@@ -174,11 +178,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "427807018762b6fe",
+  "active": "3bdbfb5ff2202756",
   "lastOpenFiles": [
+    "Notes/Redis/Redis Atomic Operations.md",
     "Notes/Redis/Common Commands/HSET.md",
     "Things to refer/Intellij cracked version.md",
-    "Notes/Redis/Untitled.md",
     "Notes/Redis/Common Commands",
     "Notes/Redis",
     "Tech Notes/Java Garbage Collection.md",
