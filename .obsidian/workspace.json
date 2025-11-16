@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "55d97b4930ab23d0",
+        "id": "4e22a8498592582d",
         "type": "tabs",
         "children": [
           {
-            "id": "3bdbfb5ff2202756",
+            "id": "bf34188a3a9fd013",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Redis/Redis Atomic Operations.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Redis Atomic Operations"
+              "title": "New tab"
             }
           }
         ]
@@ -178,8 +174,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "3bdbfb5ff2202756",
+  "active": "179d409ac506a52f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-11-02 19.06.22.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-16 20.33.20.excalidraw.md",
+    "Notes/Redis/Redis Transactions vs Lua Scripts.md",
     "Notes/Redis/Redis Atomic Operations.md",
     "Notes/Redis/Common Commands/HSET.md",
     "Things to refer/Intellij cracked version.md",
@@ -205,9 +204,6 @@
     "Work/Worklog/2025-07-29.md",
     "Work/Worklog/2025-07-28.md",
     "Work/Worklog/2025-07-25.md",
-    "Work/Worklog/2025-07-24.md",
-    "Work/Worklog/2025-07-23.md",
-    "Work/Groww Cloud/Groww Cloud Design Feedback.md",
     "Work/Growth/Dhiman's experience files for reference",
     "Work/Worklog",
     "Work/Static IPs",

@@ -1,4 +1,4 @@
-#redis #transactions 
+#redis #transactions #lua_scripts
 
 Redis offers several mechanisms to ensure atomicity, meaning operations are executed as a single, indivisible unit, preventing race conditions and ensuring data consistency.
 
