@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3c6ad8424ac3d825",
+        "id": "9def83631793719f",
         "type": "tabs",
         "children": [
           {
-            "id": "8254264af8e97ec0",
+            "id": "af0dbbb93b869b64",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,8 +174,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "8254264af8e97ec0",
+  "active": "af0dbbb93b869b64",
   "lastOpenFiles": [
+    "Notes/Omarchy/Monitor config.md",
+    "Notes/Omarchy",
+    "Things to refer/Comprehensive Postmortem & Fix Guide  Spring Boot 3 Jakarta vs javax Persistence errors.md",
     "Notes/System Design/Rate limiter.md",
     "Excalidraw/Drawing 2025-11-02 19.06.22.excalidraw.md",
     "Excalidraw/Drawing 2025-11-16 20.33.20.excalidraw.md",
@@ -202,15 +205,12 @@
     "Work/Worklog/2025-08-01.md",
     "Work/Worklog/2025-07-31.md",
     "Work/Worklog/2025-07-30.md",
-    "Work/Worklog/2025-07-29.md",
-    "Work/Worklog/2025-07-28.md",
     "Work/Growth/Dhiman's experience files for reference",
     "Work/Worklog",
     "Work/Static IPs",
     "Work/Groww Cloud",
     "Work/Growth",
     "Work/Greeks & Option chain",
-    "Work/Apex SDK",
-    "Work/Apex Historical Data"
+    "Work/Apex SDK"
   ]
 }
