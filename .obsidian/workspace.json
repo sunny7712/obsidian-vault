@@ -11,10 +11,14 @@
             "id": "af0dbbb93b869b64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI Prompts/Refactoring Prompt.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Refactoring Prompt"
             }
           }
         ]
@@ -176,6 +180,13 @@
   },
   "active": "af0dbbb93b869b64",
   "lastOpenFiles": [
+    "Notes/Java/Concurrency/Volatile.md",
+    "Notes/Java/Co.md",
+    "Notes/Java/Concurrency",
+    "Notes/Untitled.md",
+    "Notes/Java",
+    "AI Prompts/Refactoring Prompt.md",
+    "AI Prompts",
     "Notes/Omarchy/Monitor config.md",
     "Notes/Omarchy",
     "Things to refer/Comprehensive Postmortem & Fix Guide  Spring Boot 3 Jakarta vs javax Persistence errors.md",
@@ -201,16 +212,9 @@
     "Work/Worklog/2025-08-11.md",
     "Work/Worklog/2025-08-06.md",
     "Work/Worklog/2025-08-05.md",
-    "Work/Worklog/2025-08-04.md",
-    "Work/Worklog/2025-08-01.md",
-    "Work/Worklog/2025-07-31.md",
-    "Work/Worklog/2025-07-30.md",
     "Work/Growth/Dhiman's experience files for reference",
     "Work/Worklog",
     "Work/Static IPs",
-    "Work/Groww Cloud",
-    "Work/Growth",
-    "Work/Greeks & Option chain",
-    "Work/Apex SDK"
+    "Work/Groww Cloud"
   ]
 }
